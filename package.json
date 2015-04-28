@@ -1,0 +1,22 @@
+{
+  "name": "shortWave",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/DoctorFactorial/shortWave.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DoctorFactorial/shortWave/issues"
+  },
+  "homepage": "https://github.com/DoctorFactorial/shortWave",
+  "dependencies": {
+    "express": "^4.12.3"
+  }
+}
